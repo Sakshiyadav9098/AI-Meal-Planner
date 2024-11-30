@@ -1,3 +1,4 @@
+Edited by Sakshi
 # AI Meal Planner App
 
 This project is a meal planning app that generates personalized meal plans based on a user's caloric needs and food
